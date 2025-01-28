@@ -1,0 +1,233 @@
+.card {
+    height: 105vh;
+    width: 100vw;
+    margin: 0;
+    display: flex;
+    overflow-x: hidden;
+}
+
+* {
+    flex-wrap: nowrap;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.icon {
+    width: 140px;
+    height: 100px;
+}
+
+.drop {
+    display: flex;
+}
+
+.navb {
+    justify-content: space-between;
+    width: 250px;
+    height: 60px;
+}
+
+button {
+    width: 240px;
+    height: 70px;
+    justify-content: space-between;
+    border: none;
+    border-radius: 50px;
+    background-color: transparent;
+    color: white;
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+}
+
+.ps5 {
+    width: 100%;
+}
+
+.box3 {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/016/010/original/futuristic-threshold-with-reflections-on-wall-and-floor-free-video.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.card1 {
+    background-image: url(https://cdn.wallpapersafari.com/60/44/vcrDRe.jpg);
+    background-repeat: no-repeat;
+    height: 99vh;
+    width: 99vw;
+    background-size: cover;
+    display: block;
+}
+
+div {
+    position: sticky;
+    display: flex;
+    top: 0;
+}
+
+.box2 {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/016/010/original/futuristic-threshold-with-reflections-on-wall-and-floor-free-video.jpg);
+    background-repeat: no-repeat;
+    height: 99vh;
+    width: 99vw;
+    background-size: cover;
+}
+
+.box4 {
+    background-color: black;
+    height: 400vh;
+    width: 100vw;
+    background-size: cover;
+    display: block;
+}
+
+.textbox {
+    color: beige;
+    display: block;
+    margin-top: 500px;
+    margin-left: 450px;
+}
+
+p {
+    width: 475px;
+    font-size: larger;
+    margin-left: 15px;
+    color: aliceblue;
+}
+
+h1 {
+    width: 490px;
+    align-content: center;
+    margin-left: 0px;
+    font-size: 3rem;
+    color: aliceblue;
+    display: fixed;
+}
+
+.exp {
+    display: inline-block;
+    color: beige;
+    margin-left: 400px;
+    width: 1000px;
+    position: fixed;
+    margin-top: 175px;
+}
+
+.box2 {
+    color: bisque;
+    display: block;
+    overflow-x: auto;
+}
+
+.ssd {
+    max-width: 47%;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 8px;
+    background-color: black;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#ray:hover {
+    box-shadow: 0 0 1.5em 0 orange;
+}
+
+.cards {
+    height: 100%;
+    display: flex;
+    width: 97%;
+}
+
+.im {
+    width: 100%;
+    height: 60%;
+    display: block;
+    border-radius: 10px;
+}
+
+.h {
+    margin-left: 95px;
+    width: 700px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    width: 670px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button:hover {
+    box-shadow: 0 0 1.5em 0 blue;
+}
+
+#speed:hover {
+    box-shadow: 0 0 1.5em 0 plum;
+}
+
+#batman:hover {
+    box-shadow: 0 0 2em 0 black;
+}
+
+#doom:hover {
+    box-shadow: 0 0 1.5em 0 orange;
+}
+
+.games {
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    margin-left: 650px;
+    width: 275px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.features {
+    height: 200vh;
+    width: 200vw;
+}
+
+.gallery {
+    display: inline-block;
+    border: 1px solid hsl(0, 0%, 60%);
+    margin: 5px;
+    width: 450px;
+    margin-left: 30px;
+    position: relative;
+}
+
+.gallery .description {
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.gallery:hover {
+    border: 1px solid hsl(0, 0%, 20%);
+}
+
+.gallery img {
+    width: 100%;
+    height: 350px;
+}
+
+.up {
+    margin-left: 550px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
